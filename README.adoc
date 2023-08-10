@@ -1,3 +1,7 @@
+= PROJECT MOVED
+
+This project has been migrated to Eclipse Foundation. This repository is for legacy review access only. Anyone interested in MVC's current progress should head on over to the [Jakarta EE MVC Specification project](https://github.com/jakartaee/mvc).
+
 = JSR 371 Specification and API
 
 This project contains the specification document and Java API sources. The project
